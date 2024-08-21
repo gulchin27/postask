@@ -1,0 +1,5 @@
+Div elementinin içərisindəki p taglarini klasslarina uyğun şəkilin üzərinə gətirək lazimdi
+
+.head klass-ı olanı şəkilinin üzərində olmaqla yuxarıya
+.middle klass-ı olanı şəkilinin üzərində olmaqla ortaya
+.foooter klass-ı olanı şəkilinin üzərində olmaqla aşağıya

@@ -1,0 +1,25 @@
+img {
+    width: 30%;
+    height: 50vh;
+}
+.one{
+    position: relative;
+}
+.head{
+    position:relative; 
+    border: 1px solid green;
+    bottom: 430px;
+    left: 10px;
+}
+.middle{
+    position:relative;
+    border: 1px solid red;
+    bottom: 290px;
+    left: 10px;
+}
+.footer{
+    position:relative;
+    border: 1px solid rgb(21, 0, 255);
+    bottom:120px;
+    left: 10px;
+}
